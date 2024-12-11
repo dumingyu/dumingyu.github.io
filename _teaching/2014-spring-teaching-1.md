@@ -8,14 +8,7 @@ date: 2019-01-01
 location: "Victoria, Canada"
 ---
 
-
-
-
-
-
-
-
-
+Provide support for instructor with marking assignmnets and exams, answering questions and collecting feedbacks from students.
 
 Grading
 ======

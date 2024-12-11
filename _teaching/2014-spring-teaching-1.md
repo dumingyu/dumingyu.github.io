@@ -3,18 +3,19 @@ title: "Teaching experience 1"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of Victoria, Department of ECE"
+date: 2019-01-01
+location: "Victoria, Canada"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Grading
 ======
+evaluated and graded assignments and examinations, ensuring consistent and fair assessment.
 
-Heading 2
+Student Support
 ======
+provided academic assistance to students, clarifying concepts and addressing queries during office hours.
 
-Heading 3
+Task Management
 ======
+completed assigned administrative and instructional support tasks efficiently, contributing to smooth course operations.

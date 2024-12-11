@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate course - ECE 455: Real Time Computer Systems Design"
 permalink: /teaching/2019-spring-teaching-1
 venue: "University of Victoria, Department of ECE"
 date: 2019-01-01

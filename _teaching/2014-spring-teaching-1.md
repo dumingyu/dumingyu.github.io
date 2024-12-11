@@ -7,8 +7,7 @@ venue: "University of Victoria, Department of ECE"
 date: 2019-01-01
 location: "Victoria, Canada"
 ---
-Summary
-=======
+**Summary**:
 Provide support for instructor with marking assignmnets and exams, answering questions and collecting feedbacks from students.
 
 Grading

@@ -1,11 +1,8 @@
 ---
 title: "Past"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+excerpt: "Blockchain application on Electronic Health Records <br/><img src=''>"
 collection: portfolio
 ---
 
-Blockchian
-=====
-
-Self-navigated Robot
+Blockchain application on Electronic Health Records(EHR)
 =====

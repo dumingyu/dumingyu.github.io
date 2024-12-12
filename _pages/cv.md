@@ -63,16 +63,12 @@ Skills
 Publications
 ======
 Ready to be filled for works accomplished in PhD 
-<!--  <ul>{% for post in site.publications reversed %} -->
-<!--    {% include archive-single-cv.html %} -->
-<!--  {% endfor %}</ul> -->
+
   
 Talks
 ======
 Ready for to be filled for talks accomplished in PhD 
-<!-- <ul>{% for post in site.talks reversed %} -->
-<!--   {% include archive-single-talk-cv.html  %} -->
-<!--  {% endfor %}</ul> -->
+
   
 
   

@@ -34,8 +34,8 @@ Certificates
 
 Service and leadership
 ======
-* Conversational Partner
-* Conference Organization
+* Volunteer for the Conversational Partner
+* Host for the Conference Organization
 
 Teaching
 ======

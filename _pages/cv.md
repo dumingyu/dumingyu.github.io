@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* M.Eng. in Electrical and Computer Engineering, University of Victoria, 2018 - Present (Gapped due to Covid-19 from 2020-2022 and resumed from 2024 January term )
+* M.Eng. in Electrical and Computer Engineering, University of Victoria, 2018 - Present \ (Gapped due to Covid-19 from 2020-2022 and resumed from 2024 January term )
 * B.Sc. in Computer Science, University of Victoria, 2014 - 2018
 
 Research experience
 ======
-* Blockchain Application in Electronic Health Records (EHR)
+* Blockchain Application in Electronic Health Records (EHR)\
   Role: Research assistant
   * Feasibility Study: explored the application of blockchain technology to safeguard the integrity and security of EHR systems.
   * Literature Review: Conducted in-depth analysis of relevant academic papers and evaluated contemporary open-source blockchain frameworks.
@@ -24,7 +24,7 @@ Research experience
 
 Work experience
 ======
-* Guangzhou Bo-Neng Human Resources Co., Ltd.
+* Guangzhou Bo-Neng Human Resources Co., Ltd.\
   Role: Data Engineer (labor sourcing to China Communications Smart City Ecological Development (Guangzhou) Co., Ltd.)
   * Data Analysis: conducted extensive data analyses to uncover trends, identify operational inefficiencies, and inform strategic decisions.
   * Data Modelling: developed and optimizsed data models to support intelligent city management systems, enabling improved resource allocation and decision-making processes.

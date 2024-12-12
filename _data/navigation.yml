@@ -13,17 +13,15 @@ main:
 
   - title: "Teaching"
     url: /teaching/  
+
+  - title: "Service and Leadership"
+    url: /year-archive/
     
   - title: "Publications"
     url: /publications/
 
   - title: "Talks"
     url: /talks/    
-    
-
-        
-  #- title: "Blog Posts"
-  #  url: /year-archive/
     
   #- title: "Guide"
   #  url: /markdown/

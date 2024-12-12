@@ -12,9 +12,10 @@ redirect_from:
 Education
 ======
 * M.Eng. in Electrical and Computer Engineering, University of Victoria, 2018 - Present \
-  * Gapped due to Covid-19 from 2020-2022 and resumed from 2024 January term
+  * Gapped due to Covid-19 from 2020-2022 and resumed since 2024 January term
   * GPA: My university holds 9 scale, so it is 5.875/9, equivalently 3.33/4 .
 * B.Sc. in Computer Science, University of Victoria, 2014 - 2018
+  * Outstanding achievement on Data Science related courses – grade all over A-
 
 Research experience
 ======
@@ -38,7 +39,7 @@ Certificates
 ======
 * China National Legal Professional Qualification Certificate
   * Yes, it is required to be a lawyer in China.
-  * Prepared since April, 2023 and acquired it in Dec, 2023.
+  * Prepared from April, 2023 and acquired it in Dec, 2023.
 
 Service and leadership
 ======
@@ -66,7 +67,6 @@ Skills
 Publications
 ======
 Ready to be filled for works accomplished in PhD 
-
   
 Talks
 ======

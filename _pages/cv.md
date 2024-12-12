@@ -11,12 +11,15 @@ redirect_from:
 
 Education
 ======
-* M.Eng. in Electrical and Computer Engineering, University of Victoria, 2018 - Present <br\> (Gapped due to Covid-19 from 2020-2022 and resumed from 2024 January term )
+* M.Eng. in Electrical and Computer Engineering, University of Victoria, 2018 - Present \
+  * Gapped due to Covid-19 from 2020-2022 and resumed from 2024 January term
+  * GPA: My university holds 9 scale, so it is 5.875/9, equivalently 3.33/4 .
 * B.Sc. in Computer Science, University of Victoria, 2014 - 2018
 
 Research experience
 ======
-* Blockchain Application in Electronic Health Records (EHR)\
+* Blockchain Application in Electronic Health Records (EHR) - From Sep/2018 to Dec/2018 \
+  Supervisor: Dr. Xiaodai Dong \
   Role: Research assistant
   * Feasibility Study: explored the application of blockchain technology to safeguard the integrity and security of EHR systems.
   * Literature Review: Conducted in-depth analysis of relevant academic papers and evaluated contemporary open-source blockchain frameworks.
@@ -24,7 +27,7 @@ Research experience
 
 Work experience
 ======
-* Guangzhou Bo-Neng Human Resources Co., Ltd.<br\>
+* Guangzhou Bo-Neng Human Resources Co., Ltd. - From Mar/2022 to Mar/2023 \
   Role: Data Engineer (labor sourcing to China Communications Smart City Ecological Development (Guangzhou) Co., Ltd.)
   * Data Analysis: conducted extensive data analyses to uncover trends, identify operational inefficiencies, and inform strategic decisions.
   * Data Modelling: developed and optimizsed data models to support intelligent city management systems, enabling improved resource allocation and decision-making processes.

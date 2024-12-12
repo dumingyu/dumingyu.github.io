@@ -39,7 +39,6 @@ Service and leadership
 
 Teaching
 ======
-* Teaching assistant for a undergraduate course
 <ul>{% for post in site.teaching reversed %}
       {% include archive-single-cv.html %}
     {% endfor %}</ul>

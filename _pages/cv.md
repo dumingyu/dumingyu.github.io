@@ -34,7 +34,7 @@ Certificates
 
 Service and leadership
 ======
-<ul>{% for post in site.posts %}
+<ul>{% for post in site.posts reversed %}
       {% include archive-single.html %}
     {% endfor %}</ul>
 

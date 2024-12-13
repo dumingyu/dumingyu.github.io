@@ -4,7 +4,7 @@ excerpt: "LLM on Mental Health<br/><img src=''>"
 collection: portfolio
 ---
 
-I have stronge interests in AI and Health. Currently, I am studying the feasibility of a Mutil-modal LLM application on mental health that can captures face, tone of voice and text.
+I have strong interests in AI and Health. Currently, I am studying the feasibility of a Mutil-modal LLM application on mental health that can captures face, tone of voice and text.
 
 The Following papers are my reference on the feasbile product.\
 1. [EmoBench-Evaluating the Emotional Intelligence of Large Language Models](https://doi.org/10.48550/arXiv.2402.12071)).\

@@ -8,8 +8,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  # - title: "Research Interests"
-  #   url: /portfolio/
+  - title: "Research Interests"
+    url: /portfolio/
 
   - title: "Teaching"
     url: /teaching/  

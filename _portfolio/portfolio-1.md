@@ -9,7 +9,7 @@ I have stronge interests in AI and Health. Currently, I am studying the feasibil
 The Following papers are my reference on the feasbile product.\
 [1](../assets/EmoBench-Evaluating the Emotional Intelligence of Large Language Models.pdf).\
 [2](../assets/EmoLLM-Multimodal Emotional Understanding Meets Large Language Models.pdf).\
-[Emotional_Intelligence_of_Large_Language_Models]< arXiv:2307.09042v2>.\
+[Emotional_Intelligence_of_Large_Language_Models](https://doi.org/10.48550/arXiv.2307.09042).\
 [4](../assets/Enhancing Multimodal Emotion Recognition through Attention Mechanisms in BERT and CNN Architectures.pdf).\
 [5](../assets/MentalBERT Publicly Available Pretrained Language Models for Mental Healthcare.pdf).\
 

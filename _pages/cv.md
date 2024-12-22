@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.Eng. in Electrical and Computer Engineering, University of Victoria, 2018 - Present \
+* M.Eng. in Electrical and Computer Engineering, University of Victoria, 2018 - Present
   * Gapped due to Covid-19 from 2020-2022 and resumed since 2024 January term
   * GPA: My university holds 9 scale, so it is 5.875/9, equivalently 3.33/4 .
   * My unoffcial transcript : [Mingyu Du's transcript](../assets/Unofficial_Transcript.pdf)

@@ -31,7 +31,7 @@ Research experience
 Work experience
 ======
 * Guangzhou Bo-Neng Human Resources Co., Ltd. - From Mar/2022 to Mar/2023 \
-  Role: Data Engineer (labor sourcing to China Communications Smart City Ecological Development (Guangzhou) Co., Ltd.)
+  Role: Data Engineer
   * Data Analysis: conducted extensive data analyses to uncover trends, identify operational inefficiencies, and inform strategic decisions.
   * Data Modelling: developed and optimizsed data models to support intelligent city management systems, enabling improved resource allocation and decision-making processes.
   * Technical Consulting: designed and delivered tailored technical consulting solutions for clients, addressing key challenges in smart engineering.
